@@ -8,6 +8,16 @@ body {
     background-color: #d9dcd6;
 }
 
+/* moved a, p selectors to group with above single element selectors */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +34,7 @@ body {
     color: #d9dcd6;
 }
 
+/* added single quote syntax around Calibri */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -39,15 +50,6 @@ body {
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
-}
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
 }
 
 .hero {
@@ -75,6 +77,7 @@ p {
     margin-left: 20px;
 }
 
+/* added single quote syntax around Calibri */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -134,6 +137,7 @@ p {
     max-width: 150px;
 }
 
+/* added single quote syntax around Calibri */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -143,6 +147,7 @@ p {
     color: #ffffff;
 }
 
+/* added single quote syntax around Calibri */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -152,6 +157,7 @@ p {
     color: #ffffff;
 }
 
+/* added single quote syntax around Calibri */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
