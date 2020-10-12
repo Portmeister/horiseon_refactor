@@ -30,7 +30,10 @@ Repository Quality
 - Repository contains multiple descriptive commit messages
 - Repository contains quality README file with description, screenshot (README.docx), and link to deployed application
 
- Source Code provided by Trilogy Education Services and edited/refactored by Carrol W. Porter (Portmeister)
+![code refactor demo](./images/01-html-css-git-homework-demo.png)
+
+Contributors:
+- Source Code provided by Trilogy Education Services and edited/refactored by Carrol W. Porter (Portmeister)
 
  
 
