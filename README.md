@@ -5,7 +5,7 @@ Task objective: refactor an existing site to make it more accessible.
 Tasks performed to complete objective:
 - view the source code & add semantic HTML elements
 - view the structure of the HTML elements and adjust elements to follow logical structure independent of styling and positioning
-- view the image elements and add accessible alt attributes
+- view the image elements and add accessible alt & title attributes
 - view the heading attributes and organize in sequential order
 - view the title element and add a concise, descriptive title
 
@@ -28,7 +28,7 @@ Repository Quality
 - Repository follows best practices for file structure and naming conventions
 - Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
 - Repository contains multiple descriptive commit messages
-- Repository contains quality README file with description, screenshot (README.docx), and link to deployed application
+- Repository contains quality README file with description, screenshot, and link to deployed application
 
 ![code refactor demo](./images/01-html-css-git-homework-demo.png)
 
